@@ -1,0 +1,3 @@
+test  xxxxx和user的上層資料庫
+xxxxx  存文章資料
+user  使用者帳號和密碼
